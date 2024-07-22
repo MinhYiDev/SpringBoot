@@ -1,0 +1,6 @@
+com\javaweb\Application.class
+com\javaweb\api\BuildingAPI.class
+com\javaweb\beans\BuildingDTO.class
+com\javaweb\controllerAdvice\ControllerAdvisor.class
+com\javaweb\beans\ErrorReponseDTO.class
+customException\FieldRequiredException.class
